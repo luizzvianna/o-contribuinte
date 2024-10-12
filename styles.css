@@ -1,0 +1,108 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+  a {
+    width: 79px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #989D9C;
+    margin-right: 15px;
+  }  
+
+  .links {
+    padding-left: 75px;
+    padding-top: 30px;
+    cursor: pointer;
+  }
+
+  button {
+    width: 222px;
+    height: 41px;
+    border-radius: 50px;
+    font-size: 24px;
+    line-height: 29.26px;
+    background-color: blue;
+    color: aliceblue;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  h1 {
+  width: 513px;
+  height: 122px;
+  font-weight: 850px;
+  font-size: 75px;
+  line-height: 78px;  
+  color: #515151;
+  }
+
+  h2 {
+    width: 448px;
+    height: 71px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 70.7px;
+    color: #515151;
+    margin-top: -10px;
+    position: absolute;
+    z-index: auto;
+    margin-left: 154px;
+  }
+
+  h3 {
+    width: 448px;
+    height: 71px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 70.7px;
+    color: #515151;
+    margin-top: 20px;
+  }
+
+  p {
+    width: 515px;
+    height: 87px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.26px;
+    margin-top: 3px;
+  }
+
+  .textodoprojeto {
+    display: block;
+    margin: 0;
+    padding-top: 150px;
+    padding-left: 785px;
+  }
+
+  .botaoverde {
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34.13px;
+    background-color: #00a2ff;
+    border-radius: 55px;
+    width: 205px;
+    height: 45px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    color: black;
+  }
+  
+  img {
+    width: 568px;
+    height: auto;
+    margin-top: -562px;
+    margin-left: 89px;
+    border-radius: 25%;
+    
+  }
+
+ 
